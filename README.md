@@ -1,1 +1,2 @@
 # blinkit-Analysis-Using-SQL
+In this project, we explore and analyze Blinkit data using SQL to uncover valuable insights into customer behavior, operational efficiency, and business trends.Key aspects of the analysis include tracking order volumes, analyzing delivery time metrics, assessing product popularity, and understanding customer demographics.This repository contains the SQL queries, datasets used in the analysis, making it a valuable resource for those interested in data-driven strategies for quick-commerce platforms. 
